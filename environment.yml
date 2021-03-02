@@ -5,9 +5,10 @@ channels:
 dependencies:
   - python
   - pandas
-  - panel
+  - panel =0.9.7
   - holoviews
   - hvplot
+  - bokeh =2.2
   - jupyterlab
   - pytest
   - appmode
